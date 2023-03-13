@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=JavaFXApp
+comment1.params=xc\ yc\ ccolor
+comment1.target=Player(int,\ int,\ java.lang.String)
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+comment3.params=primaryStage
+comment3.target=void\ start(javafx.stage.Stage)
+comment4.params=newValue
+comment4.target=void\ changedp(P_move)
+comment5.params=observable\ oldValue\ newValue
+comment5.target=void\ changed(javafx.beans.value.ObservableValue,\ P_move,\ P_move)
+comment6.params=
+comment6.target=void\ item_1()
+comment7.params=
+comment7.target=void\ exit_dialog()
+numComments=8
